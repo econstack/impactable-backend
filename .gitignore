@@ -128,11 +128,7 @@ collectstatic/*
 # # dataset files
 datasets/
 datasets/*
-# media/datafiles/
-# media/datafiles/*
-# media/uploads/
-# media/uploads/*
-# media/*
+media/*
 # .
 
 # # log/output

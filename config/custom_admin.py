@@ -1,9 +1,9 @@
-""" Custom admin classes for Django admin """
+"""Custom admin classes for Django admin"""
 
 from django.contrib import admin
-from core.helpers.string_helpers import round_to_significant
+from helpers.string_helpers import round_to_significant
 
-from core import logger
+from config import logger
 
 
 class BaseAdmin(admin.ModelAdmin):
