@@ -1,0 +1,2502 @@
+[
+  {
+    "iso3": "BEN",
+    "iso2": "BJ",
+    "ison": "204",
+    "name": "Benin",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "BTN",
+    "iso2": "BT",
+    "ison": "064",
+    "name": "Bhutan",
+    "region_name": "south asia",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "BWA",
+    "iso2": "BW",
+    "ison": "072",
+    "name": "Botswana",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "BRA",
+    "iso2": "BR",
+    "ison": "076",
+    "name": "Brazil",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "BRN",
+    "iso2": "BN",
+    "ison": "096",
+    "name": "Brunei Darussalam",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "BGR",
+    "iso2": "BG",
+    "ison": "100",
+    "name": "Bulgaria",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "BDI",
+    "iso2": "BI",
+    "ison": "108",
+    "name": "Burundi",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "CAF",
+    "iso2": "CF",
+    "ison": "140",
+    "name": "Central African Republic",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": "central african rep"
+  },
+  {
+    "iso3": "KHM",
+    "iso2": "KH",
+    "ison": "116",
+    "name": "Cambodia",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "CAN",
+    "iso2": "CA",
+    "ison": "124",
+    "name": "Canada",
+    "region_name": "north america",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "CYM",
+    "iso2": "KY",
+    "ison": "136",
+    "name": "Cayman Islands",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "CIV",
+    "iso2": "CI",
+    "ison": "384",
+    "name": "Côte d'Ivoire",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": "cte divoire;cote divoire"
+  },
+  {
+    "iso3": "TCD",
+    "iso2": "TD",
+    "ison": "148",
+    "name": "Chad",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "CHL",
+    "iso2": "CL",
+    "ison": "152",
+    "name": "Chile",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "CHN",
+    "iso2": "CN",
+    "ison": "156",
+    "name": "China",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "COL",
+    "iso2": "CO",
+    "ison": "170",
+    "name": "Colombia",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "COM",
+    "iso2": "KM",
+    "ison": "174",
+    "name": "Comoros",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "CPV",
+    "iso2": "CV",
+    "ison": "132",
+    "name": "Cape Verde",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": "cabo verde"
+  },
+  {
+    "iso3": "AUS",
+    "iso2": "AU",
+    "ison": "036",
+    "name": "Australia",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "GUY",
+    "iso2": "GY",
+    "ison": "328",
+    "name": "Guyana",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": "guyana cr"
+  },
+  {
+    "iso3": "HRV",
+    "iso2": "HR",
+    "ison": "191",
+    "name": "Croatia",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "CUB",
+    "iso2": "CU",
+    "ison": "192",
+    "name": "Cuba",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "CUW",
+    "iso2": "CW",
+    "ison": "531",
+    "name": "Curaçao",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "BEL",
+    "iso2": "BE",
+    "ison": "056",
+    "name": "Belgium",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "DNK",
+    "iso2": "DK",
+    "ison": "208",
+    "name": "Denmark",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "DJI",
+    "iso2": "DJ",
+    "ison": "262",
+    "name": "Djibouti",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "DOM",
+    "iso2": "DO",
+    "ison": "214",
+    "name": "Dominican Republic",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "ECU",
+    "iso2": "EC",
+    "ison": "218",
+    "name": "Ecuador",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "GNQ",
+    "iso2": "GQ",
+    "ison": "226",
+    "name": "Equatorial Guinea",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "ERI",
+    "iso2": "ER",
+    "ison": "232",
+    "name": "Eritrea",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "ETH",
+    "iso2": "ET",
+    "ison": "231",
+    "name": "Ethiopia",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "FRO",
+    "iso2": "FO",
+    "ison": "234",
+    "name": "Faroe Islands",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "FJI",
+    "iso2": "FJ",
+    "ison": "242",
+    "name": "Fiji",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "FIN",
+    "iso2": "FI",
+    "ison": "246",
+    "name": "Finland",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "PYF",
+    "iso2": "PF",
+    "ison": "258",
+    "name": "French Polynesia",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "GAB",
+    "iso2": "GA",
+    "ison": "266",
+    "name": "Gabon",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "GMB",
+    "iso2": "GM",
+    "ison": "270",
+    "name": "Gambia",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": "gambia the; the gambia"
+  },
+  {
+    "iso3": "DEU",
+    "iso2": "DE",
+    "ison": "276",
+    "name": "Germany",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "GHA",
+    "iso2": "GH",
+    "ison": "288",
+    "name": "Ghana",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "GIB",
+    "iso2": "GI",
+    "ison": "292",
+    "name": "Gibraltar",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "GRL",
+    "iso2": "GL",
+    "ison": "304",
+    "name": "Greenland",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "GUM",
+    "iso2": "GU",
+    "ison": "316",
+    "name": "Guam",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "GIN",
+    "iso2": "GN",
+    "ison": "324",
+    "name": "Guinea",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "GNB",
+    "iso2": "GW",
+    "ison": "624",
+    "name": "Guinea-Bissau",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "SXM",
+    "iso2": "SX",
+    "ison": "534",
+    "name": "Sint Maarten (Dutch part)",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "AUT",
+    "iso2": "AT",
+    "ison": "040",
+    "name": "Austria",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "ison": "031",
+    "name": "Azerbaijan",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "BGD",
+    "iso2": "BD",
+    "ison": "050",
+    "name": "Bangladesh",
+    "region_name": "south asia",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "BRB",
+    "iso2": "BB",
+    "ison": "052",
+    "name": "Barbados",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "BLZ",
+    "iso2": "BZ",
+    "ison": "084",
+    "name": "Belize",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "ARM",
+    "iso2": "AM",
+    "ison": "051",
+    "name": "Armenia",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "ARG",
+    "iso2": "AR",
+    "ison": "032",
+    "name": "Argentina",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "AGO",
+    "iso2": "AO",
+    "ison": "024",
+    "name": "Angola",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "AND",
+    "iso2": "AD",
+    "ison": "020",
+    "name": "Andorra",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "AIA",
+    "iso2": "AI",
+    "ison": "660",
+    "name": "Anguilla",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "ATA",
+    "iso2": "AQ",
+    "ison": "010",
+    "name": "Antarctica",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "BVT",
+    "iso2": "BV",
+    "ison": "074",
+    "name": "Bouvet Island",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "CXR",
+    "iso2": "CX",
+    "ison": "162",
+    "name": "Christmas Island",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "CCK",
+    "iso2": "CC",
+    "ison": "166",
+    "name": "Cocos (Keeling) Islands",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "COK",
+    "iso2": "CK",
+    "ison": "184",
+    "name": "Cook Islands",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "FLK",
+    "iso2": "FK",
+    "ison": "238",
+    "name": "Falkland Islands (Malvinas)",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "GUF",
+    "iso2": "GF",
+    "ison": "254",
+    "name": "French Guiana",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "ATF",
+    "iso2": "TF",
+    "ison": "260",
+    "name": "French Southern Territories",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "GLP",
+    "iso2": "GP",
+    "ison": "312",
+    "name": "Guadeloupe",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "GGY",
+    "iso2": "GG",
+    "ison": "831",
+    "name": "Guernsey",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "ALA",
+    "iso2": "AX",
+    "ison": "248",
+    "name": "Åland Islands",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "IMN",
+    "iso2": "IM",
+    "ison": "833",
+    "name": "Isle of Man",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "ISR",
+    "iso2": "IL",
+    "ison": "376",
+    "name": "Israel",
+    "region_name": "middle east & north africa",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "JAM",
+    "iso2": "JM",
+    "ison": "388",
+    "name": "Jamaica",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "JPN",
+    "iso2": "JP",
+    "ison": "392",
+    "name": "Japan",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "ison": "398",
+    "name": "Kazakhstan",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "KEN",
+    "iso2": "KE",
+    "ison": "404",
+    "name": "Kenya",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "KIR",
+    "iso2": "KI",
+    "ison": "296",
+    "name": "Kiribati",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "KOR",
+    "iso2": "KR",
+    "ison": "410",
+    "name": "Korea, Republic of",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": "korea rep;korea south"
+  },
+  {
+    "iso3": "KWT",
+    "iso2": "KW",
+    "ison": "414",
+    "name": "Kuwait",
+    "region_name": "middle east & north africa",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "MAC",
+    "iso2": "MO",
+    "ison": "446",
+    "name": "Macao",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": "macao sar;macao sar china;macau"
+  },
+  {
+    "iso3": "LVA",
+    "iso2": "LV",
+    "ison": "428",
+    "name": "Latvia",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "LBN",
+    "iso2": "LB",
+    "ison": "422",
+    "name": "Lebanon",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "LSO",
+    "iso2": "LS",
+    "ison": "426",
+    "name": "Lesotho",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "LBR",
+    "iso2": "LR",
+    "ison": "430",
+    "name": "Liberia",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "LIE",
+    "iso2": "LI",
+    "ison": "438",
+    "name": "Liechtenstein",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "LTU",
+    "iso2": "LT",
+    "ison": "440",
+    "name": "Lithuania",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "LUX",
+    "iso2": "LU",
+    "ison": "442",
+    "name": "Luxembourg",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "MNP",
+    "iso2": "MP",
+    "ison": "580",
+    "name": "Northern Mariana Islands",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": "mariana islands"
+  },
+  {
+    "iso3": "MWI",
+    "iso2": "MW",
+    "ison": "454",
+    "name": "Malawi",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "MYS",
+    "iso2": "MY",
+    "ison": "458",
+    "name": "Malaysia",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "MDV",
+    "iso2": "MV",
+    "ison": "462",
+    "name": "Maldives",
+    "region_name": "south asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "MLT",
+    "iso2": "MT",
+    "ison": "470",
+    "name": "Malta",
+    "region_name": "middle east & north africa",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "MHL",
+    "iso2": "MH",
+    "ison": "584",
+    "name": "Marshall Islands",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "MRT",
+    "iso2": "MR",
+    "ison": "478",
+    "name": "Mauritania",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "MEX",
+    "iso2": "MX",
+    "ison": "484",
+    "name": "Mexico",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "PSE",
+    "iso2": "PS",
+    "ison": "275",
+    "name": "Palestinian Territory, Occupied",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "..",
+    "alt_names": "west bank and gaza; palestine;gaza;west bank;gaza strip;palestinian authority"
+  },
+  {
+    "iso3": "MCO",
+    "iso2": "MC",
+    "ison": "492",
+    "name": "Monaco",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "MNG",
+    "iso2": "MN",
+    "ison": "496",
+    "name": "Mongolia",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "MNE",
+    "iso2": "ME",
+    "ison": "499",
+    "name": "Montenegro",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "MAR",
+    "iso2": "MA",
+    "ison": "504",
+    "name": "Morocco",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "MMR",
+    "iso2": "MM",
+    "ison": "104",
+    "name": "Myanmar",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "NAM",
+    "iso2": "NA",
+    "ison": "516",
+    "name": "Namibia",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "NPL",
+    "iso2": "NP",
+    "ison": "524",
+    "name": "Nepal",
+    "region_name": "south asia",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "NLD",
+    "iso2": "NL",
+    "ison": "528",
+    "name": "Netherlands",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "NCL",
+    "iso2": "NC",
+    "ison": "540",
+    "name": "New Caledonia",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "NGA",
+    "iso2": "NG",
+    "ison": "566",
+    "name": "Nigeria",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "OMN",
+    "iso2": "OM",
+    "ison": "512",
+    "name": "Oman",
+    "region_name": "middle east & north africa",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "PAK",
+    "iso2": "PK",
+    "ison": "586",
+    "name": "Pakistan",
+    "region_name": "south asia",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "PLW",
+    "iso2": "PW",
+    "ison": "585",
+    "name": "Palau",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "PNG",
+    "iso2": "PG",
+    "ison": "598",
+    "name": "Papua New Guinea",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "PRY",
+    "iso2": "PY",
+    "ison": "600",
+    "name": "Paraguay",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "PHL",
+    "iso2": "PH",
+    "ison": "608",
+    "name": "Philippines",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "POL",
+    "iso2": "PL",
+    "ison": "616",
+    "name": "Poland",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "PRI",
+    "iso2": "PR",
+    "ison": "630",
+    "name": "Puerto Rico",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "FSM",
+    "iso2": "FM",
+    "ison": "583",
+    "name": "Micronesia, Federated States of",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": "micronesia fed st"
+  },
+  {
+    "iso3": "KGZ",
+    "iso2": "KG",
+    "ison": "417",
+    "name": "Kyrgyzstan",
+    "region_name": "europe & central asia",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": "kyrgyz republic"
+  },
+  {
+    "iso3": "HND",
+    "iso2": "HN",
+    "ison": "340",
+    "name": "Honduras",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "HKG",
+    "iso2": "HK",
+    "ison": "344",
+    "name": "Hong Kong",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": "hong kong china; hong kong sar"
+  },
+  {
+    "iso3": "HUN",
+    "iso2": "HU",
+    "ison": "348",
+    "name": "Hungary",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "IND",
+    "iso2": "IN",
+    "ison": "356",
+    "name": "India",
+    "region_name": "south asia",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "IDN",
+    "iso2": "ID",
+    "ison": "360",
+    "name": "Indonesia",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "GRD",
+    "iso2": "GD",
+    "ison": "308",
+    "name": "Grenada",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "IRQ",
+    "iso2": "IQ",
+    "ison": "368",
+    "name": "Iraq",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "IRL",
+    "iso2": "IE",
+    "ison": "372",
+    "name": "Ireland",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "NOR",
+    "iso2": "NO",
+    "ison": "578",
+    "name": "Norway",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "MSR",
+    "iso2": "MS",
+    "ison": "500",
+    "name": "Montserrat",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "NIU",
+    "iso2": "NU",
+    "ison": "570",
+    "name": "Niue",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "NFK",
+    "iso2": "NF",
+    "ison": "574",
+    "name": "Norfolk Island",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "IOT",
+    "iso2": "IO",
+    "ison": "086",
+    "name": "British Indian Ocean Territory",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "HMD",
+    "iso2": "HM",
+    "ison": "334",
+    "name": "Heard Island and McDonald Islands",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "VAT",
+    "iso2": "VA",
+    "ison": "336",
+    "name": "Holy See (Vatican City State)",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "JEY",
+    "iso2": "JE",
+    "ison": "832",
+    "name": "Jersey",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "MTQ",
+    "iso2": "MQ",
+    "ison": "474",
+    "name": "Martinique",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "MYT",
+    "iso2": "YT",
+    "ison": "175",
+    "name": "Mayotte",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "ANT",
+    "iso2": "AN",
+    "ison": "530",
+    "name": "Netherlands Antilles",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "PCN",
+    "iso2": "PN",
+    "ison": "612",
+    "name": "Pitcairn",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "BFA",
+    "iso2": "BF",
+    "ison": "854",
+    "name": "Burkina Faso",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "CMR",
+    "iso2": "CM",
+    "ison": "120",
+    "name": "Cameroon",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "CRI",
+    "iso2": "CR",
+    "ison": "188",
+    "name": "Costa Rica",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "CYP",
+    "iso2": "CY",
+    "ison": "196",
+    "name": "Cyprus",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "BLM",
+    "iso2": "BL",
+    "ison": "652",
+    "name": "Saint Barthélemy",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "SHN",
+    "iso2": "SH",
+    "ison": "654",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "QAT",
+    "iso2": "QA",
+    "ison": "634",
+    "name": "Qatar",
+    "region_name": "middle east & north africa",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "ROU",
+    "iso2": "RO",
+    "ison": "642",
+    "name": "Romania",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "RWA",
+    "iso2": "RW",
+    "ison": "646",
+    "name": "Rwanda",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "SPM",
+    "iso2": "PM",
+    "ison": "666",
+    "name": "Saint Pierre and Miquelon",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "TWN",
+    "iso2": "TW",
+    "ison": "158",
+    "name": "Taiwan, Province of China",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": "taiwan;taiwan china"
+  },
+  {
+    "iso3": "ABW",
+    "iso2": "AW",
+    "ison": "533",
+    "name": "Aruba",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "WSM",
+    "iso2": "WS",
+    "ison": "882",
+    "name": "Samoa",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "SMR",
+    "iso2": "SM",
+    "ison": "674",
+    "name": "San Marino",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "SAU",
+    "iso2": "SA",
+    "ison": "682",
+    "name": "Saudi Arabia",
+    "region_name": "middle east & north africa",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "REU",
+    "iso2": "RE",
+    "ison": "638",
+    "name": "Réunion",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": "reunion"
+  },
+  {
+    "iso3": "SEN",
+    "iso2": "SN",
+    "ison": "686",
+    "name": "Senegal",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "SRB",
+    "iso2": "RS",
+    "ison": "688",
+    "name": "Serbia",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "SLE",
+    "iso2": "SL",
+    "ison": "694",
+    "name": "Sierra Leone",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "SGP",
+    "iso2": "SG",
+    "ison": "702",
+    "name": "Singapore",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "BHS",
+    "iso2": "BS",
+    "ison": "044",
+    "name": "Bahamas",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": "bahamas the"
+  },
+  {
+    "iso3": "SLB",
+    "iso2": "SB",
+    "ison": "090",
+    "name": "Solomon Islands",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "SOM",
+    "iso2": "SO",
+    "ison": "706",
+    "name": "Somalia",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "USA",
+    "iso2": "US",
+    "ison": "840",
+    "name": "United States",
+    "region_name": "north america",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": "us; usa; united states of america"
+  },
+  {
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "ison": "710",
+    "name": "South Africa",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "SGS",
+    "iso2": "GS",
+    "ison": "239",
+    "name": "South Georgia and the South Sandwich Islands",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "LKA",
+    "iso2": "LK",
+    "ison": "144",
+    "name": "Sri Lanka",
+    "region_name": "south asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "KNA",
+    "iso2": "KN",
+    "ison": "659",
+    "name": "Saint Kitts and Nevis",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "ison": "012",
+    "name": "Algeria",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "MAF",
+    "iso2": "MF",
+    "ison": "663",
+    "name": "Saint Martin (French part)",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "SJM",
+    "iso2": "SJ",
+    "ison": "744",
+    "name": "Svalbard and Jan Mayen",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "SVK",
+    "iso2": "SK",
+    "ison": "703",
+    "name": "Slovakia",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": "slovak republic; slovak rep"
+  },
+  {
+    "iso3": "SUR",
+    "iso2": "SR",
+    "ison": "740",
+    "name": "Suriname",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "SWE",
+    "iso2": "SE",
+    "ison": "752",
+    "name": "Sweden",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "SYR",
+    "iso2": "SY",
+    "ison": "760",
+    "name": "Syrian Arab Republic",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "BIH",
+    "iso2": "BA",
+    "ison": "070",
+    "name": "Bosnia and Herzegovina",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "bosnia  herzegovina"
+  },
+  {
+    "iso3": "TJK",
+    "iso2": "TJ",
+    "ison": "762",
+    "name": "Tajikistan",
+    "region_name": "europe & central asia",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "THA",
+    "iso2": "TH",
+    "ison": "764",
+    "name": "Thailand",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "TLS",
+    "iso2": "TL",
+    "ison": "626",
+    "name": "Timor-Leste",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "TGO",
+    "iso2": "TG",
+    "ison": "768",
+    "name": "Togo",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "ATG",
+    "iso2": "AG",
+    "ison": "028",
+    "name": "Antigua and Barbuda",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "antigua  barbuda"
+  },
+  {
+    "iso3": "TKL",
+    "iso2": "TK",
+    "ison": "772",
+    "name": "Tokelau",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "TUN",
+    "iso2": "TN",
+    "ison": "788",
+    "name": "Tunisia",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "TKM",
+    "iso2": "TM",
+    "ison": "795",
+    "name": "Turkmenistan",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "TUV",
+    "iso2": "TV",
+    "ison": "798",
+    "name": "Tuvalu",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "UGA",
+    "iso2": "UG",
+    "ison": "800",
+    "name": "Uganda",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "UKR",
+    "iso2": "UA",
+    "ison": "804",
+    "name": "Ukraine",
+    "region_name": "europe & central asia",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "GBR",
+    "iso2": "GB",
+    "ison": "826",
+    "name": "United Kingdom",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "URY",
+    "iso2": "UY",
+    "ison": "858",
+    "name": "Uruguay",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "ison": "860",
+    "name": "Uzbekistan",
+    "region_name": "europe & central asia",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "VEN",
+    "iso2": "VE",
+    "ison": "862",
+    "name": "Venezuela, Bolivarian Republic of",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "venezuela rb;venezuela"
+  },
+  {
+    "iso3": "BOL",
+    "iso2": "BO",
+    "ison": "068",
+    "name": "Bolivia, Plurinational State of",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "bolivia"
+  },
+  {
+    "iso3": "TTO",
+    "iso2": "TT",
+    "ison": "780",
+    "name": "Trinidad and Tobago",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "trinidad  tobago"
+  },
+  {
+    "iso3": "UMI",
+    "iso2": "UM",
+    "ison": "581",
+    "name": "United States Minor Outlying Islands",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "ison": "894",
+    "name": "Zambia",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "ZWE",
+    "iso2": "ZW",
+    "ison": "716",
+    "name": "Zimbabwe",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "VNM",
+    "iso2": "VN",
+    "ison": "704",
+    "name": "Viet Nam",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "vietnam"
+  },
+  {
+    "iso3": "ALB",
+    "iso2": "AL",
+    "ison": "008",
+    "name": "Albania",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "BHR",
+    "iso2": "BH",
+    "ison": "048",
+    "name": "Bahrain",
+    "region_name": "middle east & north africa",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "BLR",
+    "iso2": "BY",
+    "ison": "112",
+    "name": "Belarus",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "BMU",
+    "iso2": "BM",
+    "ison": "060",
+    "name": "Bermuda",
+    "region_name": "north america",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "WLF",
+    "iso2": "WF",
+    "ison": "876",
+    "name": "Wallis and Futuna",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "ESH",
+    "iso2": "EH",
+    "ison": "732",
+    "name": "Western Sahara",
+    "region_name": null,
+    "income_group__name": null,
+    "wbg_lending_group": null,
+    "alt_names": null
+  },
+  {
+    "iso3": "YEM",
+    "iso2": "YE",
+    "ison": "887",
+    "name": "Yemen",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": "yemen rep"
+  },
+  {
+    "iso3": "VGB",
+    "iso2": "VG",
+    "ison": "092",
+    "name": "Virgin Islands, British",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "NIC",
+    "iso2": "NI",
+    "ison": "558",
+    "name": "Nicaragua",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "NER",
+    "iso2": "NE",
+    "ison": "562",
+    "name": "Niger",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "MDA",
+    "iso2": "MD",
+    "ison": "498",
+    "name": "Moldova, Republic of",
+    "region_name": "europe & central asia",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": "moldova"
+  },
+  {
+    "iso3": "SVN",
+    "iso2": "SI",
+    "ison": "705",
+    "name": "Slovenia",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "SSD",
+    "iso2": "SS",
+    "ison": "728",
+    "name": "South Sudan",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "ESP",
+    "iso2": "ES",
+    "ison": "724",
+    "name": "Spain",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "RUS",
+    "iso2": "RU",
+    "ison": "643",
+    "name": "Russian Federation",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "russia"
+  },
+  {
+    "iso3": "SDN",
+    "iso2": "SD",
+    "ison": "736",
+    "name": "Sudan",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "CHE",
+    "iso2": "CH",
+    "ison": "756",
+    "name": "Switzerland",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "IRN",
+    "iso2": "IR",
+    "ison": "364",
+    "name": "Iran, Islamic Republic of",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "iran; iran islamic rep"
+  },
+  {
+    "iso3": "ARE",
+    "iso2": "AE",
+    "ison": "784",
+    "name": "United Arab Emirates",
+    "region_name": "middle east & north africa",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "VUT",
+    "iso2": "VU",
+    "ison": "548",
+    "name": "Vanuatu",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "GRC",
+    "iso2": "GR",
+    "ison": "300",
+    "name": "Greece",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "COD",
+    "iso2": "CD",
+    "ison": "180",
+    "name": "Congo, the Democratic Republic of the",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": "congo drc;congo dem rep;congo democratic republic of"
+  },
+  {
+    "iso3": "GTM",
+    "iso2": "GT",
+    "ison": "320",
+    "name": "Guatemala",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "LBY",
+    "iso2": "LY",
+    "ison": "434",
+    "name": "Libyan Arab Jamahiriya",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "libya"
+  },
+  {
+    "iso3": "HTI",
+    "iso2": "HT",
+    "ison": "332",
+    "name": "Haiti",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "ISL",
+    "iso2": "IS",
+    "ison": "352",
+    "name": "Iceland",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "TCA",
+    "iso2": "TC",
+    "ison": "796",
+    "name": "Turks and Caicos Islands",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": "turks  caicos islands"
+  },
+  {
+    "iso3": "MDG",
+    "iso2": "MG",
+    "ison": "450",
+    "name": "Madagascar",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "MLI",
+    "iso2": "ML",
+    "ison": "466",
+    "name": "Mali",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "MUS",
+    "iso2": "MU",
+    "ison": "480",
+    "name": "Mauritius",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "ison": "508",
+    "name": "Mozambique",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "NRU",
+    "iso2": "NR",
+    "ison": "520",
+    "name": "Nauru",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "EGY",
+    "iso2": "EG",
+    "ison": "818",
+    "name": "Egypt",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "egypt arab rep;egypt arab republic"
+  },
+  {
+    "iso3": "LCA",
+    "iso2": "LC",
+    "ison": "662",
+    "name": "Saint Lucia",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": "st lucia"
+  },
+  {
+    "iso3": "LAO",
+    "iso2": "LA",
+    "ison": "418",
+    "name": "Lao People's Democratic Republic",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": "laos;loa pdr;laos lao pdr"
+  },
+  {
+    "iso3": "VCT",
+    "iso2": "VC",
+    "ison": "670",
+    "name": "Saint Vincent and the Grenadines",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": "st vincent and the grenadines"
+  },
+  {
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "ison": "203",
+    "name": "Czech Republic",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "DMA",
+    "iso2": "DM",
+    "ison": "212",
+    "name": "Dominica",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": null
+  },
+  {
+    "iso3": "COG",
+    "iso2": "CG",
+    "ison": "178",
+    "name": "Congo",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "blend",
+    "alt_names": "congo rep; congo repub of the; congobrazzaville;"
+  },
+  {
+    "iso3": "SLV",
+    "iso2": "SV",
+    "ison": "222",
+    "name": "El Salvador",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "EST",
+    "iso2": "EE",
+    "ison": "233",
+    "name": "Estonia",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "SWZ",
+    "iso2": "SZ",
+    "ison": "748",
+    "name": "Swaziland",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "FRA",
+    "iso2": "FR",
+    "ison": "250",
+    "name": "France",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "TON",
+    "iso2": "TO",
+    "ison": "776",
+    "name": "Tonga",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "VIR",
+    "iso2": "VI",
+    "ison": "850",
+    "name": "Virgin Islands, U.S.",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "GEO",
+    "iso2": "GE",
+    "ison": "268",
+    "name": "Georgia",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "XKX",
+    "iso2": "XK",
+    "ison": null,
+    "name": "Kosovo",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "TZA",
+    "iso2": "TZ",
+    "ison": "834",
+    "name": "Tanzania, United Republic of",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": "Tanzania"
+  },
+  {
+    "iso3": "AFG",
+    "iso2": "AF",
+    "ison": "004",
+    "name": "Afghanistan",
+    "region_name": "south asia",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "ida",
+    "alt_names": null
+  },
+  {
+    "iso3": "PAN",
+    "iso2": "PA",
+    "ison": "591",
+    "name": "Panama",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "PER",
+    "iso2": "PE",
+    "ison": "604",
+    "name": "Peru",
+    "region_name": "latin america & caribbean",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "PRT",
+    "iso2": "PT",
+    "ison": "620",
+    "name": "Portugal",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "STP",
+    "iso2": "ST",
+    "ison": "678",
+    "name": "Sao Tome and Principe",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "Lower middle income",
+    "wbg_lending_group": "ida",
+    "alt_names": "so tom and principe;sao tome  principe"
+  },
+  {
+    "iso3": "PRK",
+    "iso2": "KP",
+    "ison": "408",
+    "name": "Korea, Democratic People's Republic of",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Low income",
+    "wbg_lending_group": "..",
+    "alt_names": "korea north"
+  },
+  {
+    "iso3": "ASM",
+    "iso2": "AS",
+    "ison": "016",
+    "name": "American Samoa",
+    "region_name": "east asia & pacific",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "ITA",
+    "iso2": "IT",
+    "ison": "380",
+    "name": "Italy",
+    "region_name": "europe & central asia",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  },
+  {
+    "iso3": "SYC",
+    "iso2": "SC",
+    "ison": "690",
+    "name": "Seychelles",
+    "region_name": "sub-saharan africa",
+    "income_group__name": "High income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "TUR",
+    "iso2": "TR",
+    "ison": "792",
+    "name": "Turkey",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "MKD",
+    "iso2": "MK",
+    "ison": "807",
+    "name": "Macedonia, the former Yugoslav Republic of",
+    "region_name": "europe & central asia",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": "macedonia fyr;north macedonia;macedonia"
+  },
+  {
+    "iso3": "JOR",
+    "iso2": "JO",
+    "ison": "400",
+    "name": "Jordan",
+    "region_name": "middle east & north africa",
+    "income_group__name": "Upper middle income",
+    "wbg_lending_group": "ibrd",
+    "alt_names": null
+  },
+  {
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "ison": "554",
+    "name": "New Zealand",
+    "region_name": "east asia & pacific",
+    "income_group__name": "High income",
+    "wbg_lending_group": "..",
+    "alt_names": null
+  }
+]

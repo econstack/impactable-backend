@@ -126,8 +126,10 @@ outputs/
 collectstatic/*
 
 # # dataset files
-datasets/
-datasets/*
+datasets/tests/
+datasets/tests/*
+datasets/temp/
+datasets/temp/*
 media/*
 # .
 

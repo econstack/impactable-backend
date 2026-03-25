@@ -45,7 +45,7 @@ DEBUG = os.environ.get("DEBUG", False)
 if DEBUG:
     ALLOWED_HOSTS = ["*"]
 else:
-    ALLOWED_HOSTS = [
+    ALLOWED_HOSTS = [  # pyright: ignore[reportConstantRedefinition]
         os.environ.get("ALLOWED_HOST_IP", ""),
         os.environ.get("ALLOWED_HOST_DOMAIN", ""),
     ]
@@ -65,6 +65,9 @@ INSTALLED_APPS = [
     # Local
     "helpers",
     "datafiles",
+    "organization",
+    "countries",
+    # "impact_indicators",
 ]
 
 MIDDLEWARE = [

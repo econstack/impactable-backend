@@ -1,0 +1,94 @@
+Sector,Code,Indicator Name,SDG,Target Number
+AGRIBUSINESS,AG-01, Average Agricultural Yield,SDG-2 Zero Hunger,Target 2.3
+AGRIBUSINESS,AG-02, Average Agricultural Yield,SDG-2 Zero Hunger,Target 2.4
+AGRIBUSINESS,AG-02, Export Sales,SDG-8 Decent Work and Economic Growth,Target 8.1
+AGRIBUSINESS,AG-02, Export Sales,SDG-17 Partnerships for the Goals,Target 17.11
+AGRIBUSINESS,AG-03,Farmers Reached,SDG-2 Zero Hunger,Target 2.3
+AGRIBUSINESS,AG-03,Farmers Reached,SDG-2 Zero Hunger,Target 2.4
+AGRIBUSINESS,AG-04,Total Sales,SDG-8 Decent Work and Economic Growth,Target 8.1
+EDUCATION,ED-01,Number of Students Enrolled,SDG-1 No Poverty,Target 1.4
+EDUCATION,ED-01,Number of Students Enrolled,SDG-4 Quality Education,Target 4.1
+EDUCATION,ED-01,Number of Students Enrolled,SDG-4 Quality Education,Target 4.2
+EDUCATION,ED-01,Number of Students Enrolled,SDG-4 Quality Education,Target 4.3
+EDUCATION,ED-01,Number of Students Enrolled,SDG-10 Reducing Inequality,Target 10.3
+EDUCATION,ED-02,Number of Female Students Enrolled,SDG-1 No Poverty,Target 1.4
+EDUCATION,ED-02,Number of Female Students Enrolled,SDG-4 Quality Education,Target 4.1
+EDUCATION,ED-02,Number of Female Students Enrolled,SDG-4 Quality Education,Target 4.2
+EDUCATION,ED-02,Number of Female Students Enrolled,SDG-4 Quality Education,Target 4.3
+EDUCATION,ED-02,Number of Female Students Enrolled,SDG-5 Gender Equality,Target 5.1
+EDUCATION,ED-02,Number of Female Students Enrolled,SDG-10 Reducing Inequality,Target 10.3
+ENERGY,EN-02,Renewable energy generated,SDG-7 Affordable and Clean Energy,Target 7.2
+ENERGY,EN-02,Renewable energy generated,SDG-13 Climate Action,Target 13.A
+HEALTH,HE-01,Number of Patients Served,SDG-1 No Poverty,Target 1.4
+HEALTH,HE-01,Number of Patients Served,SDG-3 Good Health and Well-being,Target 3.8
+HEALTH,HE-01,Number of Patients Served,SDG-10 Reducing Inequality,Target 10.3
+HEALTH,HE-02,Number of Female Patients Served,SDG-1 No Poverty,Target 1.4
+HEALTH,HE-02,Number of Female Patients Served,SDG-3 Good Health and Well-being,Target 3.8
+HEALTH,HE-02,Number of Female Patients Served,SDG-5 Gender Equality,Target 5.1
+HEALTH,HE-02,Number of Female Patients Served,SDG-5 Gender Equality,Target 5.6
+INDUSTRY,IN-01,Domestic Purchases,SDG-8 Decent Work and Economic Growth,Target 8.1
+INDUSTRY,IN-02,Export Sales,SDG-8 Decent Work and Economic Growth,Target 8.1
+INDUSTRY,IN-02,Export Sales,SDG-17 Partnerships for the Goals,Target 17.11
+INDUSTRY,IN-03,Total Sales,SDG-8 Decent Work and Economic Growth,Target 8.1
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-01,Number of Fixed Data Subscriptions,SDG-1 No Poverty,Target 1.4
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-01,Number of Fixed Data Subscriptions,"SDG-9 Industry, Innovation, and Infrastructure",Target 9.C
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-01,Number of Fixed Data Subscriptions,SDG-11 Sustainable Cities and Communities,Target 11.1
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-01,Number of Fixed Data Subscriptions,SDG-17 Partnerships for the Goals,Target 17.8
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-02,Number of Fixed Voice Subscriptions,SDG-1 No Poverty,Target 1.4
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-02,Number of Fixed Voice Subscriptions,"SDG-9 Industry, Innovation, and Infrastructure",Target 9.C
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-02,Number of Fixed Voice Subscriptions,SDG-17 Partnerships for the Goals,Target 17.8
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-03,Number of Mobile Subscriptions,SDG-1 No Poverty,Target 1.4
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-03,Number of Mobile Subscriptions,SDG-5 Gender Equality,Target 5.B
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-03,Number of Mobile Subscriptions,"SDG-9 Industry, Innovation, and Infrastructure",Target 9.C
+INFORMATION & COMMUNICATION TECHNOLOGIES,IT-03,Number of Mobile Subscriptions,SDG-17 Partnerships for the Goals,Target 17.8
+PE & INVESTMENT FUNDS,PE-11,Payment to Government,SDG-17 Partnerships for the Goals,Target 17.1
+PE & INVESTMENT FUNDS,PE-15,Export Sales,SDG-8 Decent Work and Economic Growth,Target 8.1
+PE & INVESTMENT FUNDS,PE-15,Export Sales,SDG-17 Partnerships for the Goals,Target 17.11
+PSD FIRM LEVEL,PF-02,Market Linkages Improved or Expanded,SDG-17 Partnerships for the Goals,Target 17.11
+THEMATIC AREA - CLIMATE,TA-10,GHG Emissions,SDG-13 Climate Action,Target 13.A
+THEMATIC AREA - CLIMATE,TA-11,GHG Emissions Sequestration,SDG-13 Climate Action,Target 13.A
+THEMATIC AREA - CLIMATE,TA-12,Water Consumption,SDG-6 Clean Water and Sanitation,Target 6.4
+THEMATIC AREA - CLIMATE,TA-12,Water Consumption,"SDG-9 Industry, Innovation, and Infrastructure",Target 9.4
+THEMATIC AREA - CLIMATE,TA-12,Water Consumption,SDG-12 Responsible Consumption and Production,Target 12.2
+THEMATIC AREA - CLIMATE,TA-13,Wastewater Treatment,SDG-6 Clean Water and Sanitation,Target 6.3
+THEMATIC AREA - CLIMATE,TA-13,Wastewater Treatment,SDG-11 Sustainable Cities and Communities,Target 11.6
+THEMATIC AREA - CLIMATE,TA-13,Wastewater Treatment,SDG-14 Life Below Water,Target 14.1
+THEMATIC AREA - CLIMATE,TA-14,Energy Consumption,SDG-7 Affordable and Clean Energy,Target 7.3
+THEMATIC AREA - CLIMATE,TA-14,Energy Consumption,"SDG-9 Industry, Innovation, and Infrastructure",Target 9.4
+THEMATIC AREA - CLIMATE,TA-14,Energy Consumption,SDG-12 Responsible Consumption and Production,Target 12.2
+THEMATIC AREA - CLIMATE,TA-16,Sustainable Management of Natural Resources,SDG-2 Zero Hunger,Target 2.4
+THEMATIC AREA - CLIMATE,TA-16,Sustainable Management of Natural Resources,SDG-12 Responsible Consumption and Production,Target 12.2
+THEMATIC AREA - CLIMATE,TA-16,Sustainable Management of Natural Resources,SDG-15 Life on Land,Target 15.1
+THEMATIC AREA - CLIMATE,TA-16,Sustainable Management of Natural Resources,SDG-15 Life on Land,Target 15.2
+THEMATIC AREA - COMMUNITY,TA-18,Payment to Gov't,SDG-17 Partnerships for the Goals,Target 17.1
+THEMATIC AREA - GENDER - EMPLOYMENT,TA-05,Female Direct Jobs Supported (Operations and Maintenance),SDG-5 Gender Equality,Target 5.5
+THEMATIC AREA - GENDER - EMPLOYMENT,TA-05,Female Direct Jobs Supported (Operations and Maintenance),SDG-8 Decent Work and Economic Growth,Target 8.5
+THEMATIC AREA - GENDER - EMPLOYMENT,TA-05,Female Direct Jobs Supported (Operations and Maintenance),SDG-10 Reducing Inequality,Target 10.2
+THEMATIC AREA - GENDER - EMPLOYMENT,TA-06,Female Construction Jobs (Temporary Construction),SDG-5 Gender Equality,Target 5.5
+THEMATIC AREA - GENDER - EMPLOYMENT,TA-06,Female Construction Jobs (Temporary Construction),SDG-8 Decent Work and Economic Growth,Target 8.5
+THEMATIC AREA - GENDER - EMPLOYMENT,TA-06,Female Construction Jobs (Temporary Construction),SDG-10 Reducing Inequality,Target 10.2
+THEMATIC AREA - GENDER - OWNERSHIP AND LEADERSHIP,TA-01,Number of Women in Senior Management,SDG-5 Gender Equality,Target 5.5
+THEMATIC AREA - GENDER - OWNERSHIP AND LEADERSHIP,TA-01,Number of Women in Senior Management,SDG-10 Reducing Inequality,Target 10.2
+THEMATIC AREA - GENDER - OWNERSHIP AND LEADERSHIP,TA-02,Number of Women on the Board,SDG-5 Gender Equality,Target 5.5
+THEMATIC AREA - GENDER - OWNERSHIP AND LEADERSHIP,TA-02,Number of Women on the Board,SDG-10 Reducing Inequality,Target 10.2
+THEMATIC AREA - GENDER - OWNERSHIP AND LEADERSHIP,TA-03,Number of Investment Committee Members who are Female,SDG-5 Gender Equality,Target 5.5
+THEMATIC AREA - GENDER - OWNERSHIP AND LEADERSHIP,TA-03,Number of Investment Committee Members who are Female,SDG-10 Reducing Inequality,Target 10.2
+THEMATIC AREA - GENDER - OWNERSHIP AND LEADERSHIP,TA-04,Number of Female Founded Enterprises,SDG-5 Gender Equality,Target 5.5
+THEMATIC AREA - GENDER - OWNERSHIP AND LEADERSHIP,TA-04,Number of Female Founded Enterprises,SDG-10 Reducing Inequality,Target 10.2
+THEMATIC AREA - JOBS,TA-07,Direct Employment - Construction Phase,SDG-8 Decent Work and Economic Growth,Target 8.5
+THEMATIC AREA - JOBS,TA-07,Direct Employment - Construction Phase,SDG-10 Reducing Inequality,Target 10.2
+THEMATIC AREA - JOBS,TA-08,Direct Employment - Operations and Maintenance,SDG-8 Decent Work and Economic Growth,Target 8.5
+THEMATIC AREA - JOBS,TA-08,Direct Employment - Operations and Maintenance,SDG-10 Reducing Inequality,Target 10.2
+THEMATIC AREA - JOBS,TA-09,Direct Jobs Created by the Investment,SDG-5 Gender Equality,Target 5.5
+THEMATIC AREA - JOBS,TA-09,Direct Jobs Created by the Investment,SDG-8 Decent Work and Economic Growth,Target 8.5
+THEMATIC AREA - JOBS,TA-09,Direct Jobs Created by the Investment,SDG-10 Reducing Inequality,Target 10.2
+TRANSPORTATION,TR-01,Number of Passengers Using the Transport Infrastructure,SDG-1 No Poverty,Target 1.4
+TRANSPORTATION,TR-01,Number of Passengers Using the Transport Infrastructure,"SDG-9 Industry, Innovation, and Infrastructure",Target 9.1
+TRANSPORTATION,TR-01,Number of Passengers Using the Transport Infrastructure,SDG-11 Sustainable Cities and Communities,Target 11.2
+TRANSPORTATION,TR-02,Average Daily Traffic (Non-urban),"SDG-9 Industry, Innovation, and Infrastructure",Target 9.1
+TRANSPORTATION,TR-03,Average Daily Traffic (National Road),"SDG-9 Industry, Innovation, and Infrastructure",Target 9.1
+TRANSPORTATION,TR-20,Containers Handled,"SDG-9 Industry, Innovation, and Infrastructure",Target 9.1
+TRANSPORTATION,TR-21,Bulk Cargo Handled,"SDG-9 Industry, Innovation, and Infrastructure",Target 9.1
+"WATER, WASTE & SANITATION",WA-07,Wastewater Treated,SDG-6 Clean Water and Sanitation,Target 6.3
+"WATER, WASTE & SANITATION",WA-07,Wastewater Treated,SDG-11 Sustainable Cities and Communities,Target 11.6
+"WATER, WASTE & SANITATION",WA-07,Wastewater Treated,SDG-14 Life Below Water,Target 14.1
